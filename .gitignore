@@ -1,0 +1,4 @@
+# Local overrides and generated files. The verified vendor archive is
+# intentionally versioned as part of this repository.
+.env
+*.log
